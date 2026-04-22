@@ -91,7 +91,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shalinib-06/SurviveNet
+   git clone 
    cd survivenet
 2. Install Flutter Dependencies:
    ```bash
