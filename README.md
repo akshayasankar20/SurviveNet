@@ -89,7 +89,7 @@ Make sure you have the following installed:
 
 ## Getting started 
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/akshayasankar20/SurviveNet.git
    ```bash
    git clone 
    cd survivenet
